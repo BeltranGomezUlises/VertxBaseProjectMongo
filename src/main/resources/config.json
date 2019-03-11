@@ -1,0 +1,17 @@
+{
+  "host": "192.168.10.10",
+  "db_name": "YoFacturo",
+  "port": 27170,
+  "username": "administrador",
+  "password": "mongo.90Y9B8yh$123",
+  "authSource": "admin",
+  "maxPoolSize": 50,
+  "minPoolSize": 5,
+  "maxIdleTimeMS": 300000,
+  "maxLifeTimeMS": 3600000,
+  "waitQueueMultiple": 10,
+  "waitQueueTimeoutMS": 10000,
+  "maintenanceFrequencyMS": 2000,
+  "maintenanceInitialDelayMS": 500,
+  "httpServerPort": 8480  
+}
